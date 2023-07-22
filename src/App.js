@@ -39,10 +39,12 @@ function App() {
 
 {/*rigt side div (background) */}
 
-<div className="flex-1 h-screen bg-cover bg-no-repeat bg-center bg-black"></div>
+<div className="flex-1 h-screen bg-cover bg-no-repeat bg-center bg-red-500">
+a
+</div>
      
       
-      
+    
 
 
     </div>
