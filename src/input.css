@@ -1,3 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+
+    :root {
+        --primary-color: #F2F5FA;
+        --secondary-color:#FFFF;
+        
+    
+    }
+    h1 {
+        font-family: 'Georgia', 'sans-serif';
+      }
+      
+      ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: black;
+        opacity: 1; /* Firefox */
+      }
+
+
+    a:not(nav a) {
+        text-decoration: underline;
+    }
+
+   a:hover {
+        color: #4066A5;
+        text-decoration: underline;
+
+    }
+
+   
+    
+}
