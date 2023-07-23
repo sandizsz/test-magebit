@@ -48,7 +48,7 @@ function App() {
 
         <nav className="bg-white justify-center flex ">
           <div className="flex max-w-[520px] w-full justify-between px-5 py-4 items-center sm:items-end">
-            <a className="flex items-baseline">
+            <a href="#" className="flex items-baseline">
               <img src={LOGO_IMAGE} alt="site-logo" className="mr-4" />
               <img
                 src={LOGO_IMAGE_TEXT}
