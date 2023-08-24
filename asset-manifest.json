@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/test-magebit/static/css/main.1e06b04d.chunk.css",
+    "main.js": "/test-magebit/static/js/main.fdbed044.chunk.js",
+    "main.js.map": "/test-magebit/static/js/main.fdbed044.chunk.js.map",
+    "runtime-main.js": "/test-magebit/static/js/runtime-main.6c08371f.js",
+    "runtime-main.js.map": "/test-magebit/static/js/runtime-main.6c08371f.js.map",
+    "static/js/2.e07f6d12.chunk.js": "/test-magebit/static/js/2.e07f6d12.chunk.js",
+    "static/js/2.e07f6d12.chunk.js.map": "/test-magebit/static/js/2.e07f6d12.chunk.js.map",
+    "static/js/3.18ea5338.chunk.js": "/test-magebit/static/js/3.18ea5338.chunk.js",
+    "static/js/3.18ea5338.chunk.js.map": "/test-magebit/static/js/3.18ea5338.chunk.js.map",
+    "index.html": "/test-magebit/index.html",
+    "static/css/main.1e06b04d.chunk.css.map": "/test-magebit/static/css/main.1e06b04d.chunk.css.map",
+    "static/js/2.e07f6d12.chunk.js.LICENSE.txt": "/test-magebit/static/js/2.e07f6d12.chunk.js.LICENSE.txt",
+    "static/media/output.css": "/test-magebit/static/media/background_image.ffb0235b.png",
+    "static/media/ic_success.bc50d31c.svg": "/test-magebit/static/media/ic_success.bc50d31c.svg",
+    "static/media/logo_pineapple.2fb3eb3b.svg": "/test-magebit/static/media/logo_pineapple.2fb3eb3b.svg",
+    "static/media/pineapple..d39406bb.svg": "/test-magebit/static/media/pineapple..d39406bb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c08371f.js",
+    "static/js/2.e07f6d12.chunk.js",
+    "static/css/main.1e06b04d.chunk.css",
+    "static/js/main.fdbed044.chunk.js"
+  ]
+}
